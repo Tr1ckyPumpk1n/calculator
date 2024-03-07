@@ -1,0 +1,9 @@
+document.querySelector('.row1');
+document.querySelector('.row2');
+document.querySelectorAll('.num');
+document.querySelector('.divide');
+document.querySelector('.multiply');
+document.querySelector('.add');
+document.querySelector('.subtract');
+document.querySelector('.equals');
+document.querySelector('.all-clear');

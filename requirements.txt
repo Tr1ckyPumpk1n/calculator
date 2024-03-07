@@ -1,0 +1,12 @@
+4 basic actions
+    addition
+    subtraction
+    multiplication
+    division
+
+
+for "3 + 5" create 3 variables that stores each value
+
+"operate" function that takes 2 numbers and an operator and calls one of the above functions
+
+function that populates the display when you click the number buttons and store the "display value"
